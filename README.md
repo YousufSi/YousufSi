@@ -4,8 +4,7 @@ Looking for a Summer 2027 internship in software, cloud, or security: open to le
 Currently focused on: Python, Java, JavaScript, React, and Linux, and shipping real, deployed products, not just class assignments.
 
  Find me here
-
-LinkedIn: linkedin.com/in/yousuf-s
+ LinkedIn: linkedin.com/in/yousuf-s
 
 Resume: Contact me to request!
  
