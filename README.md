@@ -5,7 +5,10 @@ Currently focused on: Python, Java, JavaScript, React, and Linux, and shipping r
 
  Find me here
 LinkedIn: linkedin.com/in/yousuf-s
+
 Resume: Contact me to request!
+ 
+ 
  Pinned projects
 makeupbybia.com : Live production website designed and deployed for a small business client, architected with Google AI Studio, HostGator hosting, and HoneyBook for bookings.
 Swish :  App created through Bolt.new and Supabase to connect local communities through pickup basketball.
